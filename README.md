@@ -54,12 +54,14 @@ Beyond coding, I am improving my English to be prepared for international opport
 
 
 ## 🔗 &nbsp;Contact Me
+   
+📧 Email: [jojedaquintero@gmail.com](mailto:jojedaquintero@gmail.com)
 
-<div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/juan-andres-ojeda-a09ab6322//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<a href="https://www.linkedin.com/in/juan-andres-ojeda-a09ab6322//">
+   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+##
 
 Credit: [Juan-andres](https://github.com/JuanAndres07)
 
